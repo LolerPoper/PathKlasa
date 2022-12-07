@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\bin\Debug\PathKlasa.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\bin\Debug\PathKlasa.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\bin\Debug\PathKlasa.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\obj\Debug\PathKlasa.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\obj\Debug\PathKlasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\obj\Debug\PathKlasa.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\obj\Debug\PathKlasa.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PathKlasa\obj\Debug\PathKlasa.pdb
